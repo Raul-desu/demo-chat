@@ -656,9 +656,9 @@ class ChatBot(Client):
 cookies = {
     "sb": "xasyYmAoy1tRpMGYvLxgkHBF",
     "fr": "0NxayJuewRHQ30OX3.AWVJwIYNh0Tt8AJv6kSwDamhkoM.BiMrVd.Iu.AAA.0.0.BiMtVZ.AWXMVaiHrpQ",
-    "c_user": "100011495016677",
+    "c_user": "100055036418505",
     "datr": "xasyYs51GC0Lq5H5lvXTl5zA",
-    "xs": "17%3ASNjAN9BEb9HWIQ%3A2%3A1666014622%3A-1%3A8125"
+    "xs": "43%3ATGfoN53nDJITnQ%3A2%3A1666018489%3A-1%3A7724"
 }
 
 
